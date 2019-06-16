@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "alias": "ppt-karaoke",
+  "name": "ppt-karaoke",
+  "builds": [
+    {
+      "src": "next.config.js",
+      "use": "@now/next"
+    }
+  ]
+}
